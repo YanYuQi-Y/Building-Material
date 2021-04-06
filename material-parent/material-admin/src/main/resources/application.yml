@@ -1,0 +1,8 @@
+# 应用名称
+spring:
+  application:
+    name: material-admin
+#设置环境(环境对应配置文件中<springProfile name="test,dev">的值)
+  profiles:
+    active: test
+

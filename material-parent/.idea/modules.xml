@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/material-admin/material-admin.iml" filepath="$PROJECT_DIR$/material-admin/material-admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/material-common/material-common.iml" filepath="$PROJECT_DIR$/material-common/material-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/material-parent.iml" filepath="$PROJECT_DIR$/material-parent.iml" />
+    </modules>
+  </component>
+</project>
