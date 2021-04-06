@@ -1,4 +1,4 @@
-package com.building.materialadmin.service;
+package com.building.entity;
 
 /**
  * @author yinjiahui

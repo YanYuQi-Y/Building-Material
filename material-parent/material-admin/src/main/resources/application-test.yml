@@ -2,8 +2,8 @@ spring:
   datasource:
     driver-class-name: com.mysql.cj.jdbc.Driver
     username: root
-    password: xxxxxxxxxxx
-    url: jdbc:mysql://localhost:3306/xxxxxxxxxxx?useUnicode=true&characterEncoding=UTF-8&serverTimezone=UTC
+    password: 284104548
+    url: jdbc:mysql://localhost:3306/2007-food?useUnicode=true&characterEncoding=UTF-8&serverTimezone=UTC
     type: com.alibaba.druid.pool.DruidDataSource
 
     filters: stat,wall,slf4j
@@ -17,8 +17,8 @@ spring:
 
 
   #redis
-  redis:
-    host: xxxxxxxxxxxxx
+#  redis:
+#    host: xxxxxxxxxxxxx
 
 
 
